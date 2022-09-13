@@ -44,6 +44,7 @@ The following tools were used in the development of the project:
 
 -   [Python](https://www.python.org/)
 -   [PyCaret](https://pycaret.org)
+-   [AutoML](https://www.bizety.com/2020/06/16/open-source-automl-tools-autogluon-transmogrifai-auto-sklearn-and-nni/) 
 -   [Decision Tree](https://scikit-learn.org/stable/modules/tree.html)
 -   [Random Forest](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
   
